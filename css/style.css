@@ -1,0 +1,20 @@
+header{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    background-color: rgb(52 58 64);
+}
+h4{
+    color: rgb(248, 160, 78);
+    line-height: 50px;
+}
+th{
+    color: rgb(248, 160, 78);
+
+}
+#tblSanPham{
+    background-color: rgb(252, 249, 244);
+}
+th{   
+    text-align: center;
+}
